@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sudipta\\BlogManagementApplication\\Blog-Management-Application\\BlogAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B51549A1-0185-45B8-BC21-CACB0CF391CF}|UnitTest\\UnitTest.csproj|d:\\sudipta\\blogmanagementapplication\\blog-management-application\\blogapi\\unittest\\blogservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51549A1-0185-45B8-BC21-CACB0CF391CF}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\blogservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCEB92B-DC4B-4870-A216-F11D131C2309}|BlogApi\\BlogApi.csproj|d:\\sudipta\\blogmanagementapplication\\blog-management-application\\blogapi\\blogapi\\shared\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCEB92B-DC4B-4870-A216-F11D131C2309}|BlogApi\\BlogApi.csproj|solutionrelative:blogapi\\shared\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCEB92B-DC4B-4870-A216-F11D131C2309}|BlogApi\\BlogApi.csproj|d:\\sudipta\\blogmanagementapplication\\blog-management-application\\blogapi\\blogapi\\repositories\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCEB92B-DC4B-4870-A216-F11D131C2309}|BlogApi\\BlogApi.csproj|solutionrelative:blogapi\\repositories\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCEB92B-DC4B-4870-A216-F11D131C2309}|BlogApi\\BlogApi.csproj|d:\\sudipta\\blogmanagementapplication\\blog-management-application\\blogapi\\blogapi\\queries\\getallblogpostsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCEB92B-DC4B-4870-A216-F11D131C2309}|BlogApi\\BlogApi.csproj|solutionrelative:blogapi\\queries\\getallblogpostsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCEB92B-DC4B-4870-A216-F11D131C2309}|BlogApi\\BlogApi.csproj|d:\\sudipta\\blogmanagementapplication\\blog-management-application\\blogapi\\blogapi\\queries\\getblogpostbyencryptedidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCEB92B-DC4B-4870-A216-F11D131C2309}|BlogApi\\BlogApi.csproj|solutionrelative:blogapi\\queries\\getblogpostbyencryptedidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCEB92B-DC4B-4870-A216-F11D131C2309}|BlogApi\\BlogApi.csproj|d:\\sudipta\\blogmanagementapplication\\blog-management-application\\blogapi\\blogapi\\queries\\getblogpostbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCEB92B-DC4B-4870-A216-F11D131C2309}|BlogApi\\BlogApi.csproj|solutionrelative:blogapi\\queries\\getblogpostbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCEB92B-DC4B-4870-A216-F11D131C2309}|BlogApi\\BlogApi.csproj|d:\\sudipta\\blogmanagementapplication\\blog-management-application\\blogapi\\blogapi\\handlers\\deleteblogposthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCEB92B-DC4B-4870-A216-F11D131C2309}|BlogApi\\BlogApi.csproj|solutionrelative:blogapi\\handlers\\deleteblogposthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCEB92B-DC4B-4870-A216-F11D131C2309}|BlogApi\\BlogApi.csproj|d:\\sudipta\\blogmanagementapplication\\blog-management-application\\blogapi\\blogapi\\handlers\\createblogposthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCEB92B-DC4B-4870-A216-F11D131C2309}|BlogApi\\BlogApi.csproj|solutionrelative:blogapi\\handlers\\createblogposthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCEB92B-DC4B-4870-A216-F11D131C2309}|BlogApi\\BlogApi.csproj|d:\\sudipta\\blogmanagementapplication\\blog-management-application\\blogapi\\blogapi\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCEB92B-DC4B-4870-A216-F11D131C2309}|BlogApi\\BlogApi.csproj|solutionrelative:blogapi\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogServiceTests.cs",
+              "DocumentMoniker": "D:\\Sudipta\\BlogManagementApplication\\Blog-Management-Application\\BlogAPI\\UnitTest\\BlogServiceTests.cs",
+              "RelativeDocumentMoniker": "UnitTest\\BlogServiceTests.cs",
+              "ToolTip": "D:\\Sudipta\\BlogManagementApplication\\Blog-Management-Application\\BlogAPI\\UnitTest\\BlogServiceTests.cs",
+              "RelativeToolTip": "UnitTest\\BlogServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:22:50.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "D:\\Sudipta\\BlogManagementApplication\\Blog-Management-Application\\BlogAPI\\BlogApi\\Shared\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "BlogApi\\Shared\\EncryptionHelper.cs",
+              "ToolTip": "D:\\Sudipta\\BlogManagementApplication\\Blog-Management-Application\\BlogAPI\\BlogApi\\Shared\\EncryptionHelper.cs",
+              "RelativeToolTip": "BlogApi\\Shared\\EncryptionHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:22:38.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetBlogPostByEncryptedIdQuery.cs",
+              "DocumentMoniker": "D:\\Sudipta\\BlogManagementApplication\\Blog-Management-Application\\BlogAPI\\BlogApi\\Queries\\GetBlogPostByEncryptedIdQuery.cs",
+              "RelativeDocumentMoniker": "BlogApi\\Queries\\GetBlogPostByEncryptedIdQuery.cs",
+              "ToolTip": "D:\\Sudipta\\BlogManagementApplication\\Blog-Management-Application\\BlogAPI\\BlogApi\\Queries\\GetBlogPostByEncryptedIdQuery.cs",
+              "RelativeToolTip": "BlogApi\\Queries\\GetBlogPostByEncryptedIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:22:09.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetBlogPostByIdQuery.cs",
+              "DocumentMoniker": "D:\\Sudipta\\BlogManagementApplication\\Blog-Management-Application\\BlogAPI\\BlogApi\\Queries\\GetBlogPostByIdQuery.cs",
+              "RelativeDocumentMoniker": "BlogApi\\Queries\\GetBlogPostByIdQuery.cs",
+              "ToolTip": "D:\\Sudipta\\BlogManagementApplication\\Blog-Management-Application\\BlogAPI\\BlogApi\\Queries\\GetBlogPostByIdQuery.cs",
+              "RelativeToolTip": "BlogApi\\Queries\\GetBlogPostByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:22:05.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllBlogPostsQuery.cs",
+              "DocumentMoniker": "D:\\Sudipta\\BlogManagementApplication\\Blog-Management-Application\\BlogAPI\\BlogApi\\Queries\\GetAllBlogPostsQuery.cs",
+              "RelativeDocumentMoniker": "BlogApi\\Queries\\GetAllBlogPostsQuery.cs",
+              "ToolTip": "D:\\Sudipta\\BlogManagementApplication\\Blog-Management-Application\\BlogAPI\\BlogApi\\Queries\\GetAllBlogPostsQuery.cs",
+              "RelativeToolTip": "BlogApi\\Queries\\GetAllBlogPostsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:22:01.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteBlogPostHandler.cs",
+              "DocumentMoniker": "D:\\Sudipta\\BlogManagementApplication\\Blog-Management-Application\\BlogAPI\\BlogApi\\Handlers\\DeleteBlogPostHandler.cs",
+              "RelativeDocumentMoniker": "BlogApi\\Handlers\\DeleteBlogPostHandler.cs",
+              "ToolTip": "D:\\Sudipta\\BlogManagementApplication\\Blog-Management-Application\\BlogAPI\\BlogApi\\Handlers\\DeleteBlogPostHandler.cs",
+              "RelativeToolTip": "BlogApi\\Handlers\\DeleteBlogPostHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:21:55.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateBlogPostHandler.cs",
+              "DocumentMoniker": "D:\\Sudipta\\BlogManagementApplication\\Blog-Management-Application\\BlogAPI\\BlogApi\\Handlers\\CreateBlogPostHandler.cs",
+              "RelativeDocumentMoniker": "BlogApi\\Handlers\\CreateBlogPostHandler.cs",
+              "ToolTip": "D:\\Sudipta\\BlogManagementApplication\\Blog-Management-Application\\BlogAPI\\BlogApi\\Handlers\\CreateBlogPostHandler.cs",
+              "RelativeToolTip": "BlogApi\\Handlers\\CreateBlogPostHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:21:40.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "D:\\Sudipta\\BlogManagementApplication\\Blog-Management-Application\\BlogAPI\\BlogApi\\Repositories\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "BlogApi\\Repositories\\BlogRepository.cs",
+              "ToolTip": "D:\\Sudipta\\BlogManagementApplication\\Blog-Management-Application\\BlogAPI\\BlogApi\\Repositories\\BlogRepository.cs",
+              "RelativeToolTip": "BlogApi\\Repositories\\BlogRepository.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:20:35.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "D:\\Sudipta\\BlogManagementApplication\\Blog-Management-Application\\BlogAPI\\BlogApi\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "BlogApi\\Controllers\\BlogController.cs",
+              "ToolTip": "D:\\Sudipta\\BlogManagementApplication\\Blog-Management-Application\\BlogAPI\\BlogApi\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "BlogApi\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:49:21.523Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

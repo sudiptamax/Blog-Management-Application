@@ -1,0 +1,33 @@
+<div class="container">
+  <h2>{{ isEdit ? 'Edit Blog' : 'Create Blog' }}</h2>
+  <form [formGroup]="blogForm" (ngSubmit)="saveBlog()">
+    <div class="form-group">
+      <label for="username">Username</label>
+      <input
+        type="text"
+        class="form-control"
+        id="username"
+        formControlName="username"
+      />
+      <div *ngIf="blogForm.controls['username'].invalid && (blogForm.controls['username'].dirty || blogForm.controls['username'].touched)" class="text-danger">
+        Username is required.
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="text">Text</label>
+      <textarea
+        class="form-control"
+        id="text"
+        formControlName="text"
+      ></textarea>
+      <div *ngIf="blogForm.controls['text'].invalid && (blogForm.controls['text'].dirty || blogForm.controls['text'].touched)" class="text-danger">
+        Text is required.
+      </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary" [disabled]="blogForm.invalid">
+      {{ isEdit ? 'Update' : 'Create' }}
+    </button>
+  </form>
+</div>
