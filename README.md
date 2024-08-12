@@ -7,7 +7,9 @@
 - [Running the Application](#running-the-application)
 - [Design Decisions](#design-decisions)
 - [Application Structure](#application-structure)
+- [Performance Considerations](#performance-considerations)
 
+  
 ## Introduction
 This is a full-stack Blog Management application developed using .NET Core for the backend and Angular for the frontend. 
 The application allows users to create, read, update, and delete blog posts. The backend follows the CQRS (Command Query Responsibility Segregation) pattern, and the frontend is developed using Angular.
@@ -325,6 +327,7 @@ Potential Scalability Enhancements:
 
 There are several ways this application can scale with a huge number of blog posts, as this application implementation architecture is able to scale in the following areas:
 
+## Performance Considerations:
 
 ## Client-Side (Angular Application) Scalability
 
